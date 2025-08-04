@@ -17,5 +17,12 @@ const perguntas[
             "Alternativa 1",
             "Alternativas 2"
         ]
-    } // fecha objeto perguntas
+    }, // fecha objeto perguntas
 ]// fecha lista
+ {
+        enunciado: "Pergunta 2",
+        alternativas: [
+            "Alternativa 1",
+            "Alternativas 2"
+        ]
+    }
