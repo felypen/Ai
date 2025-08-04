@@ -9,3 +9,5 @@ const caixaResultado = document.querySelector('.caixa-resltado');
 const textoResultado = document.querySelector('.texto-Resultado');
 
 const lista = [];
+
+const perguntas[];
