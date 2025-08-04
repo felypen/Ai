@@ -10,4 +10,12 @@ const textoResultado = document.querySelector('.texto-Resultado');
 
 const lista = [];
 
-const perguntas[];
+const perguntas[
+    {
+        enunciado: "Pergunta 1",
+        alternativas: [
+            "Alternativa 1",
+            "Alternativas 2"
+        ]
+    } // fecha objeto perguntas
+]// fecha lista
